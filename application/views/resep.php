@@ -31,13 +31,13 @@
             <a class="nav-link text-white" href="resep.php">Resep</a><hr class="bg-light">
           </li>
           <li class="nav-item">
-            <img src="img/1.jpg">
+            <img src="Resep1.jpg">
           </li>
           <li class="nav-item pt-1">
-            <img src="img/1.jpg">
+            <img src="Resep1.jpg">
           </li>
           <li class="nav-item pt-1">
-            <img src="img/1.jpg">
+            <img src="Resep.jpg">
           </li>
       </div>
     <div class="col mt-2 mr-3 ml-2 pr-2 pt-2 vh-100 bg-light form-control">
